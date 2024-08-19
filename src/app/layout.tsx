@@ -11,7 +11,7 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
-  title: "My Portfolio",
+  title: "Shahriar's Portfolio",
   description: "Shahriar Ahmed Portfolio as name Shahriarspy",
   icons: {
     icon: "vercel.svg",
