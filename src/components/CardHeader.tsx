@@ -16,7 +16,7 @@ export default function CardHeader({
         <StarIcon className="size-9 text-emerald-300" />
         <h3 className="font-serif text-3xl">{title}</h3>
       </div>
-      <p className="text-sm lg:text-base max-w-xs text-white/60 mt-2">
+      <p className="text-sm lg:text-base max-w-xs md:max-w-md lg:max-w-lg text-white/60 mt-2">
         {description}
       </p>
     </div>
