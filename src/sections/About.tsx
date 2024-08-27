@@ -143,7 +143,7 @@ export const AboutSection = () => {
             </Card>
             <Card className="h-[320px] md:col-span-3 lg:col-span-2">
               <CardHeader
-                className="md:pb-0"
+                className="md:pb-2"
                 title="My Toolbox"
                 description="  Explore the technologies and tools I use to craft exceptional
                 digital experiences."
