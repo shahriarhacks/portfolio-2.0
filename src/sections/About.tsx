@@ -141,9 +141,9 @@ export const AboutSection = () => {
                 <Image src={bookCover} alt={"Book Cover"} />
               </div>
             </Card>
-            <Card className="h-[320px] md:col-span-3 lg:col-span-2 md:py-0">
+            <Card className="h-[320px] md:col-span-3 lg:col-span-2">
               <CardHeader
-                className=""
+                className="md:py-0"
                 title="My Toolbox"
                 description="  Explore the technologies and tools I use to craft exceptional
                 digital experiences."
