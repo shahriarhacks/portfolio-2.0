@@ -122,7 +122,7 @@ export const HeroSection = () => {
           />
           <div className="bg-gray-950 border border-gray-800 px-4 py-1.5 inline-flex items-center gap-4 rounded-lg">
             <div className="bg-green-600 size-2.5 rounded-full animate-ping relative">
-              <div className="bg-green-500 absolute inset-0 rounded-full animate-ping-large"></div>
+              <div className="bg-green-500 absolute inset-0 rounded-full animate-ping-large [animation-duration:7s]"></div>
             </div>
             <div className="text-sm font-semibold">
               Available for new projects
